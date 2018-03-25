@@ -11,7 +11,7 @@ const styles = {
 
 const App = () => (
   <div style={styles}>
-    <Hello name="Bas" />
+    <Hello name="Jesse" />
     <h2>
       {lodash.sum.toString()} editing to see some magic happen {"\u2728"}
     </h2>
